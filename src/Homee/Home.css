@@ -1,0 +1,23 @@
+.Homecontainer{
+    border: 3px solid darkblue;
+    padding: 20px;
+    height: 26.5em;
+}
+
+.Homecontainer >h2{
+    color: lightgray;
+}
+.heading>button{
+ 
+    border-radius: 5px;
+    width: 80px;
+}
+
+.heading{
+    margin-top: 0;
+    border: 1px dotted black;
+    padding: 5px 10px;
+    width: 15em;
+    display: inline;
+   
+}
